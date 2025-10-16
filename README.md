@@ -1,7 +1,6 @@
-# Pomodoro Timer ⏲️✨
+# Pomodoro Timer ⏲️
 
-A beautiful, glassmorphism-inspired Pomodoro Timer app built with React!  
-Switch seamlessly between light and dark themes, and stay productive with work/break cycles.
+Stay productive with work/break cycles.
 
 ---
 
